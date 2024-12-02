@@ -1,0 +1,168 @@
+*{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box
+	-moz-box-sizin: border-box;
+	box-sizing: border-box;
+}
+/* atributos de fondo de pagina */
+body{
+	background-position: center;
+	background-attachment: contain;
+	background-size: cover;
+	overflow-x: hidden;
+	background: url(images/backgronud-school.jpg) no-repeat fixed;
+
+	position:relative;
+	min-width:900px;	
+	}
+/* fin atributos fondo de pagina */
+
+
+/* inicio contenido de lapagina */
+#areatotalcontenidos{
+	width: 100%;
+	padding-top: 20px;
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-bottom: 20px;
+	text-align: justify;
+	background: rgb(242,242,242);
+}
+/* fin contenido de lapagina */
+/* inicio TITULO GENERAL */
+#titulogeneral1{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 100%;
+	border-radius: 6px;
+	text-align: center;
+	background:#d2611e;
+	color: #fff;
+	font-size: 24px;
+	text-shadow: 1px 1px 1px #000;
+	box-shadow: 0px 0px 2px 1px #000, 0px 0px 20px 1px rgba(0,0,0,0.6);
+}
+/* fin TITULO GENERAL */
+/* inicio TITULO GENERAL */
+#titulogeneral2{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 100%;
+	border-radius: 6px;
+	text-align: center;
+	background:#20b2aa;
+	color: #fff;
+	font-size: 24px;
+	text-shadow: 1px 1px 1px #000;
+	box-shadow: 0px 0px 2px 1px #000, 0px 0px 20px 1px rgba(0,0,0,0.6);
+}
+/* fin TITULO GENERAL */
+/* inicio TITULO GENERAL */
+#titulogeneral3{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 100%;
+	border-radius: 6px;
+	text-align: center;
+	background:#808000;
+	color: #fff;
+	font-size: 24px;
+	text-shadow: 1px 1px 1px #000;
+	box-shadow: 0px 0px 2px 1px #000, 0px 0px 20px 1px rgba(0,0,0,0.6);
+}
+/* fin TITULO GENERAL */
+/* inicio TITULO GENERAL */
+#titulogeneral4{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 100%;
+	border-radius: 6px;
+	text-align: center;
+	background:#1e90ff;
+	color: #fff;
+	font-size: 24px;
+	text-shadow: 1px 1px 1px #000;
+	box-shadow: 0px 0px 2px 1px #000, 0px 0px 20px 1px rgba(0,0,0,0.6);
+}
+/* fin TITULO GENERAL */
+
+/* inicio contenidos*/
+#contenidos{
+	width: 100%;
+	border-radius: 5px;
+	box-shadow: 0px 0px 30px 1px rgba(0,0,0,0.5);
+	text-align: justify;
+	background: #fff;
+	color: #000;
+	font-size: 16px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	padding-left: 50px;
+	padding-right: 50px;
+	z-index: 1;	
+}
+/* fin contenidos*/
+
+/* inicio contenidos*/
+#contenidoscomentarios{
+	width: 100%;
+	border-radius: 5px;
+	box-shadow: 0px 0px 30px 1px rgba(0,0,0,0.5);
+	text-align: justify;
+	background: #e0ffff;
+	color: #000;
+	font-size: 16px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 50px;
+	padding-right: 50px;
+	font-style: italic;	
+	font-weight: normal;
+}
+/* fin contenidos*/
+
+
+/* inicio contenidos*/
+#img-productos{
+	width: 300px;
+	border-radius: 5px;
+	box-shadow: 0px 0px 30px 1px rgba(0,0,0,0.5);
+	background: #e0ffff;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin: 10px;
+
+}
+/* fin contenidos*/
+
+/* inicio contenidos*/
+#img-areas{
+	width: 220px;
+	border-radius: 5px;
+	box-shadow: 0px 0px 30px 1px rgba(0,0,0,0.5);
+	background: #e0ffff;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin: 10px;
+
+}
+/* fin contenidos*/
+
+
+/* inicio footer*/
+#footer{
+	width: 100%;
+	padding: 20px;
+	text-align: left;
+	background: rgba(12,21,35);
+	color: #fff;
+	font-size: 12px;
+	box-shadow: 0px 0px 5px 1px #c0c099;
+	margin-bottom: 10px;
+}
+/* fin footer*/
